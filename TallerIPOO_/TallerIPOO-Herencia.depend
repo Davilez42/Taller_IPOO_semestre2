@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1637853774 source:c:\users\joses\onedrive\escritorio\talleripoo-herencia\main.cpp
+	<iostream>
+	"Cortesia.h"
+	"NoAfiliado.h"
+	"Afiliado.h"
+	"vector"
+	"Cliente.h"
+	<windows.h>
+
+1637854313 source:c:\users\joses\onedrive\escritorio\talleripoo-herencia\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	"Fecha.h"
+
+1637936662 c:\users\joses\onedrive\escritorio\talleripoo-herencia\cliente.h
+	<iostream>
+
+1637853711 source:c:\users\joses\onedrive\escritorio\talleripoo-herencia\noafiliado.cpp
+	"NoAfiliado.h"
+
+1637778013 c:\users\joses\onedrive\escritorio\talleripoo-herencia\noafiliado.h
+
+1637852452 source:c:\users\joses\onedrive\escritorio\talleripoo-herencia\cortesia.cpp
+	"Cortesia.h"
+	<iostream>
+
+1637853264 c:\users\joses\onedrive\escritorio\talleripoo-herencia\cortesia.h
+	"Cliente.h"
+
+1637854043 source:c:\users\joses\onedrive\escritorio\talleripoo-herencia\afiliado.cpp
+	"Afiliado.h"
+	<iostream>
+
+1637778013 c:\users\joses\onedrive\escritorio\talleripoo-herencia\afiliado.h
+	"NoAfiliado.h"
+
+1637854738 c:\users\joses\onedrive\escritorio\talleripoo-herencia\fecha.h
+	<iostream>
+	"ctime"
+
+1638058820 source:c:\users\joses\onedrive\escritorio\talleripoo\afiliado.cpp
+	"Afiliado.h"
+	<iostream>
+
+1637778013 c:\users\joses\onedrive\escritorio\talleripoo\afiliado.h
+	"NoAfiliado.h"
+
+1638058229 c:\users\joses\onedrive\escritorio\talleripoo\noafiliado.h
+
+1637854313 source:c:\users\joses\onedrive\escritorio\talleripoo\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	"Fecha.h"
+
+1638057136 c:\users\joses\onedrive\escritorio\talleripoo\cliente.h
+	<iostream>
+
+1638141024 c:\users\joses\onedrive\escritorio\talleripoo\fecha.h
+	<iostream>
+	"ctime"
+
+1638058820 source:c:\users\joses\onedrive\escritorio\talleripoo\noafiliado.cpp
+	"NoAfiliado.h"
+
+1638141646 source:c:\users\joses\onedrive\escritorio\talleripoo\main.cpp
+	<iostream>
+	"Cortesia.h"
+	"NoAfiliado.h"
+	"Afiliado.h"
+	"vector"
+	"Cliente.h"
+	<windows.h>
+
+1638057527 c:\users\joses\onedrive\escritorio\talleripoo\cortesia.h
+	"Cliente.h"
+
+1638058820 source:c:\users\joses\onedrive\escritorio\talleripoo\cortesia.cpp
+	"Cortesia.h"
+	<iostream>
+
+1638058822 source:c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\afiliado.cpp
+	"Afiliado.h"
+	<iostream>
+
+1637778014 c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\afiliado.h
+	"NoAfiliado.h"
+
+1649782575 c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\noafiliado.h
+
+1637854314 source:c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	"Fecha.h"
+
+1638057138 c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\cliente.h
+	<iostream>
+
+1638141026 c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\fecha.h
+	<iostream>
+	"ctime"
+
+1638058822 source:c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\cortesia.cpp
+	"Cortesia.h"
+	<iostream>
+
+1638057528 c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\cortesia.h
+	"Cliente.h"
+
+1638141648 source:c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\main.cpp
+	<iostream>
+	"Cortesia.h"
+	"NoAfiliado.h"
+	"Afiliado.h"
+	"vector"
+	"Cliente.h"
+	<windows.h>
+
+1638058822 source:c:\users\joses\onedrive\documentos\semestre 2\prgramacion c++ cod\talleripoo\noafiliado.cpp
+	"NoAfiliado.h"
+
